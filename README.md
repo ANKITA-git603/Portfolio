@@ -74,7 +74,7 @@ To run this project locally:
 ## 📬 Connect With Me
 
 - **GitHub:** https://github.com/ANKITA-git603
-- **LinkedIn:** Add your LinkedIn profile URL
+- **LinkedIn:** https://www.linkedin.com/in/ankita-gupta-638016270/
 - **Email:** ankitagupta199900@gmail.com
 
 ---
